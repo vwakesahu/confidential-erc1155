@@ -461,7 +461,7 @@ const FantasyCharacterViewer = () => {
             Fantasy Character Creator
           </h1>
           <p className="text-gray-400">
-            Customize your character's weapons and potions
+            Customize your character&apos;s weapons and potions
           </p>
         </div>
 
